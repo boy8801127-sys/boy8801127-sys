@@ -10,6 +10,7 @@
 - 程式語言：Python、VBA、SQL、(一點點的)Javascript
 - 套件：pandas, numpy, matplotlib, backtrader
 - 機器學習工具:Orange
+- 工作流:n8n
 - LLM本地模型訓練與微調:Ollama、Open Web UI
 - 雲端部署:GCP, Azure
 - 資料庫處理與資料呈現:MySQL、SQLite、Power BI
