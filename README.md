@@ -7,7 +7,7 @@
 ## 🔭 最新完成專案
 [檔案轉換為訓練用 JSON 格式工具](https://github.com/boy8801127-sys/file-to-json-converter.git)
 ## 🛠 技能
-- 程式語言：Python、VBA、SQL
+- 程式語言：Python、VBA、SQL、(一點點的)Javascript
 - 套件：pandas, numpy, matplotlib, backtrader
 - 機器學習工具:Orange
 - LLM本地模型訓練與微調:Ollama、Open Web UI
