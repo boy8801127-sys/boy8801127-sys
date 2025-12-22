@@ -2,7 +2,7 @@
 
 一個文組仔轉型程式設計的辛路歷程。
 
-現鑽研量化交易與機器學習、雲端部署、LLM模型微調與訓練，專注於 Python、Backtesting 與風險管理相關工具與策略開發、雲端部署。
+現鑽研量化交易與機器學習、雲端部署、LLM模型微調與訓練。
 
 ## 🔭 最新完成專案
 [檔案轉換為訓練用 JSON 格式工具](https://github.com/boy8801127-sys/file-to-json-converter.git)
