@@ -6,6 +6,7 @@
 
 ## 🔭 最新完成專案
 [景氣週期投資策略系統](https://github.com/boy8801127-sys/Business_Cycle_stratgy)
+
 [P酒戰情報 - Whisky Intelligence](https://github.com/boy8801127-sys/aibd2025_Whisky_Intelligence_team_project)
 ## 🛠 技能
 - 程式語言：Python、VBA、SQL、(一點點的)Javascript
