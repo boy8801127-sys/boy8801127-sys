@@ -10,18 +10,18 @@
 [P酒戰情報 - Whisky Intelligence](https://github.com/boy8801127-sys/aibd2025_Whisky_Intelligence_team_project)
 ## 🛠 技能
 python與套件:
--數據清理(Numpy, pandas)
--數據呈現(matplotlib, seaborn, plotly)
--網路爬蟲(requests, selenium,bs4)
--文本分析(Jieba, CkipTagger)
--雲端部署(Google Cloud, Azure)
--機器學習(Tensor Flow, Pytorch)
+- 數據清理(Numpy, pandas)
+- 數據呈現(matplotlib, seaborn, plotly)
+- 網路爬蟲(requests, selenium,bs4)
+- 文本分析(Jieba, CkipTagger)
+- 雲端部署(Google Cloud, Azure)
+- 機器學習(Tensor Flow, Pytorch)
 
 數據庫、LLM架設、機器學習、數據呈現:
--數據庫管理:MySQL
--LLM架設:Open WebUI、Ollama
--機器學習:Orange
--資料呈現:Power BI、Tableau
+- 數據庫管理:MySQL
+- LLM架設:Open WebUI、Ollama
+- 機器學習:Orange
+- 資料呈現:Power BI、Tableau
 - 主題：數據分析、量化策略、文本分析、風險管理、回測、雲端部署
 
 ## 📌 先前專案
