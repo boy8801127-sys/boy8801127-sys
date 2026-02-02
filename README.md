@@ -9,14 +9,20 @@
 
 [P酒戰情報 - Whisky Intelligence](https://github.com/boy8801127-sys/aibd2025_Whisky_Intelligence_team_project)
 ## 🛠 技能
-- 程式語言：Python、VBA、SQL、(一點點的)Javascript
-- 套件：pandas, numpy, matplotlib, backtrader
-- 機器學習工具:Orange
-- 工作流:n8n
-- LLM本地模型訓練與微調:Ollama、Open Web UI
-- 雲端部署:GCP, Azure
-- 資料庫處理與資料呈現:MySQL、SQLite、Power BI
-- 主題：量化策略、風險管理、回測、雲端部署
+python與套件:
+-數據清理(Numpy, pandas)
+-數據呈現(matplotlib, seaborn, plotly)
+-網路爬蟲(requests, selenium,bs4)
+-文本分析(Jieba, CkipTagger)
+-雲端部署(Google Cloud, Azure)
+-機器學習(Tensor Flow, Pytorch)
+
+數據庫、LLM架設、機器學習、數據呈現:
+-數據庫管理:MySQL
+-LLM架設:Open WebUI、Ollama
+-機器學習:Orange
+-資料呈現:Power BI、Tableau
+- 主題：數據分析、量化策略、文本分析、風險管理、回測、雲端部署
 
 ## 📌 先前專案
 - [台股融資維持率量化策略分析系統](https://github.com/boy8801127-sys/Maintenance_Margin_Ratio_stratgy) 
